@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "782e4927-9d5b-4866-b78a-94b7dbb7e864")
+	(paper "A3")
+	(title_block
+		(title "SATELLITE EDGE Module - Rewo")
+		(date "2025-08-03")
+		(rev "1")
+		(company "Duy Nam Schlitz")
+	)
+	(lib_symbols)
+)
